@@ -1,0 +1,45 @@
+.card {
+    border: 2px solid #000;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    color: #555;
+  }
+
+  .card:hover {
+    box-shadow: 3px 3px 0 #000;
+
+    transform: translateY(-9px); /* Translate vertically by -5px on hover */
+  }
+  .important {
+    color: red; /* Change color to whatever you want */
+  }
+  
+  .promotions {
+    color: blue; /* Change color to whatever you want */
+  }
+  
+  .social {
+    color: green; /* Change color to whatever you want */
+  }
+  
+  .marketing {
+    color: orange; /* Change color to whatever you want */
+  }
+  
+  .spam {
+    color: purple; /* Change color to whatever you want */
+  }
+  
+  .general {
+    color: black; /* Change color to whatever you want */
+  }

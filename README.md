@@ -3,7 +3,6 @@
 
 Classify Emails is a cutting-edge application that automates the organization of Gmail inboxes using advanced AI. By leveraging secure Google OAuth authentication, it fetches raw email data via the Gmail API and utilizes the SambaNova Fast API to classify emails into categories like Promotions, Social, Updates, and Forums. This intelligent classification system streamlines email management, helping users quickly identify and prioritize important messages. The app's user-friendly interface allows for easy viewing, searching, and filtering of categorized emails, enhancing productivity and reducing the time spent on inbox maintenance. With its robust security and efficient email organization, Classify Emails is an essential tool for maintaining a clutter-free and manageable inbox.
 
-[![Classify Emails Screenshot](https://github.com/user-attachments/assets/a274bbc4-9821-447c-8d83-04c36ff7c850)](https://github.com/user-attachments/assets/a274bbc4-9821-447c-8d83-04c36ff7c850)
 
 ## Architecture 
 ![image](https://github.com/user-attachments/assets/95998275-400e-44a7-903b-e3d1dbe53078)
